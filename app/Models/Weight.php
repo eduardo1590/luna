@@ -15,9 +15,9 @@ class Weight extends Model
         'weight',
     ];
 
-    protected $dates = [
+    /*protected $dates = [
         'created_at',
         'updated_at',
         'date'
-    ];
+    ];*/
 }
