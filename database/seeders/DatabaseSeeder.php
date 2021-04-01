@@ -17,6 +17,6 @@ class DatabaseSeeder extends Seeder
     {
         // \App\Models\User::factory(10)->create();
         $this->call(DogSeeder::class);
-        $this->call(WeightSeeder::class);
+        //$this->call(WeightSeeder::class);
     }
 }
