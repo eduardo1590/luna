@@ -217,7 +217,7 @@
     </div>
     <div class="text-center">
       <div class="flex items-center justify-center w-16 h-16 mx-auto mb-4 rounded-full bg-gray-500 sm:w-24 sm:h-24">
-        <img src="" alt="tuso">
+        <img src="" alt="">
       </div>
       <h6 class="mb-2 font-semibold leading-5">TUSO</h6>
     </div>
