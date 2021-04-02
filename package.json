@@ -9,10 +9,7 @@
         "prod": "npm run production",
         "production": "mix --production",
         "postinstall": "npm run prod"
-    },
-    "engines": {
-                "node": "14.16.0"
-              },        
+    },      
     "devDependencies": {
         "@tailwindcss/forms": "^0.2.1",
         "@tailwindcss/typography": "^0.3.0",

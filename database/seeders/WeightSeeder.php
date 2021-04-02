@@ -384,7 +384,7 @@ class WeightSeeder extends Seeder
 
         Weight::create([
             'dog_id' => '8',
-            'date' => Carbon::parse('27/03/2021'),
+            'date' => Carbon::parse('3/28/2021'),
             'weight' => '516',
         ]);
 
